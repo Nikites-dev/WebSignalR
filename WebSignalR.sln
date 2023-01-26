@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSignalR", "WebSignalR\WebSignalR.csproj", "{1C05CBE0-FF13-40AF-BDD4-D7C9E0618002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSignalR", "WebSignalR\WebSignalR.csproj", "{1C05CBE0-FF13-40AF-BDD4-D7C9E0618002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppSignaLR", "BlazorAppSignaLR\BlazorAppSignaLR.csproj", "{62F903DD-5FAB-473A-BEAE-273DF02B9446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1C05CBE0-FF13-40AF-BDD4-D7C9E0618002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C05CBE0-FF13-40AF-BDD4-D7C9E0618002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C05CBE0-FF13-40AF-BDD4-D7C9E0618002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F903DD-5FAB-473A-BEAE-273DF02B9446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F903DD-5FAB-473A-BEAE-273DF02B9446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F903DD-5FAB-473A-BEAE-273DF02B9446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F903DD-5FAB-473A-BEAE-273DF02B9446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
